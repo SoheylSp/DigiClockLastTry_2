@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>WorldClock.qml</file>
+        <file>WorldClockHeader.qml</file>
+        <file>WorldClockListView.qml</file>
+        <file>WorldClockDelegate.qml</file>
+        <file>IconBar.qml</file>
+        <file>icons/add.svg</file>
+        <file>icons/alarmIcon.png</file>
+        <file>icons/stopWatch.png</file>
+        <file>icons/timer.png</file>
+        <file>icons/worldClock.png</file>
+    </qresource>
+</RCC>
